@@ -1,0 +1,13 @@
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\obj\Debug\netcoreapp3.1\Test 1 -Deliverable.AssemblyInfoInputs.cache
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\obj\Debug\netcoreapp3.1\Test 1 -Deliverable.AssemblyInfo.cs
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\obj\Debug\netcoreapp3.1\Test 1 -Deliverable.csproj.CoreCompileInputs.cache
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\bin\Debug\netcoreapp3.1\Test 1 -Deliverable.exe
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\bin\Debug\netcoreapp3.1\Test 1 -Deliverable.deps.json
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\bin\Debug\netcoreapp3.1\Test 1 -Deliverable.runtimeconfig.json
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\bin\Debug\netcoreapp3.1\Test 1 -Deliverable.runtimeconfig.dev.json
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\bin\Debug\netcoreapp3.1\Test 1 -Deliverable.dll
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\bin\Debug\netcoreapp3.1\Test 1 -Deliverable.pdb
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\obj\Debug\netcoreapp3.1\Test 1 -Deliverable.dll
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\obj\Debug\netcoreapp3.1\Test 1 -Deliverable.pdb
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\obj\Debug\netcoreapp3.1\Test 1 -Deliverable.genruntimeconfig.cache
+C:\Users\verke\source\repos\Test 1 -Deliverable\Test 1 -Deliverable\obj\Debug\netcoreapp3.1\Test 1 -Deliverable.csprojAssemblyReference.cache
